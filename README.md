@@ -1,8 +1,7 @@
-# Project Title: Fake_News_Detection
+# Project Title: Fake News Detection
 CMPE 255 Project
 
 ## Idea
-Include a clear description of the problem and the approach you have identified to solve it
 Over the years the internet has become available in nearly every corner of the world which means
 almost everyone is able to see news across the world. The accessibility of the internet has also
 made it so news can be posted by politicians, news channels, or even common civilians. This level
