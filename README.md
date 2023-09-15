@@ -20,5 +20,5 @@ articles and derive a model that should be able to predict if other news article
 5. Fitting the model in the appropriate algorithms
 6. Test the data set with the trained model
 7. Use trained model to predict authenticity of new data
-8. [If time allows] Insert model into application that would allow new news articles to be
+8. Insert model into application that would allow new news articles to be
 categorized as either fake news or real news
